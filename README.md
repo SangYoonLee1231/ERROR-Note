@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚨📒 ERROR NOTE
+# 📒 ERROR NOTE
 
 <img src="https://img.shields.io/badge/since-2022.11-grey"></a>
 <img src="https://img.shields.io/badge/author-SangYoonLee-yellow"></a>
@@ -8,7 +8,7 @@
 
 </div>
 
-- 개발 중 <strong>마주했던 에러들을 어떻게 해결했는지</strong> 간단히 기록하는 공간입니다.
+- 개발 중 <strong>마주했던 🚨에러🚨들을 어떻게 해결했는지</strong> 간단히 기록하는 공간입니다.
 
 - 해결 과정이 비교적 길었던 애러는 블로그 포스트로 따로 작성하여 링크를 올렸습니다.
 
