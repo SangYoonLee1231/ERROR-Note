@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-## React
+## React (+ JS/TS)
 
 ### 2022년 11~12월
 
@@ -33,8 +33,10 @@
 - <a href="https://github.com/SangYoonLee1231/ERROR-Note/blob/main/React/%5B22.12.09%5D%20%ED%86%A0%EC%8A%A4%20%ED%8E%98%EC%9D%B4%EB%A8%BC%EC%B8%A0%20api%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EA%B2%B0%EC%A0%9C%20%EA%B8%B0%EB%8A%A5%20%EA%B5%AC%ED%98%84%20%EC%A4%91%20axios%EB%A5%BC%20%EC%9D%BD%EC%A7%80%20%EB%AA%BB%ED%95%98%EB%8A%94%20%EB%AC%B8%EC%A0%9C.md">토스 페이먼츠 api를 활용한 결제 기능 구현 중 axios를 읽지 못하는 문제가 발생했다.</a>
 - <a href="https://github.com/SangYoonLee1231/ERROR-Note/blob/main/React/%5B22.12.22%5D%20React%20Router%EB%A5%BC%20%EC%83%88%EB%A1%9C%EA%B3%A0%EC%B9%A8%20%EC%8B%9C%20%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94%20cannot%20GET%20URL%20%EC%97%90%EB%9F%AC.md">React-Router를 사용하여 CRA 배포한 페이지에서 새로고침 시 <code>cannot GET /URL</code> 에러가 발생하고 화면엔 아무것도 표시되지 않는다.</a>
 - <a href="https://github.com/SangYoonLee1231/ERROR-Note/blob/main/React/%5B22.12.22%5D%20React-Router%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC%20CRA%20%EB%B0%B0%ED%8F%AC%20%EC%8B%9C%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EA%B2%BD%EB%A1%9C%EB%A5%BC%20%EC%B0%B8%EC%A1%B0%ED%95%98%EC%A7%80%20%EB%AA%BB%ED%95%9C%EB%8B%A4.md">React-Router를 사용하여 github page에 CRA 배포 시, 홈페이지(도메인) 경로를 참조하지 못하는 문제가 발생한다.</a>
-  <!-- - <a href=""></a> -->
-  <!-- - <a href=""></a> -->
+- <a href="https://github.com/SangYoonLee1231/ERROR-Note/blob/main/React/%5B22.12.29%5D%20Cannot%20use%20JSX%20unless%20the%20'--jsx'%20flag%20is%20provided.ts(17004).md">CRA + JS에서 CRA + TS로 변환하는 중, <code>Cannot use JSX unless the '--jsx' flag is provided.ts(17004)</code> 에러가 발생했다.</a>
+- <a href="https://github.com/SangYoonLee1231/ERROR-Note/blob/main/React/%5B22.12.31%5DTypeScript%EB%A1%9C%20React%EB%A5%BC%20%EB%B6%88%EB%9F%AC%EC%98%AC%20%EB%95%8C%20import%20%EA%B5%AC%EB%AC%B8%EC%9D%B4%20JS%EC%99%80%20%EB%8B%AC%EB%9D%BC%EC%A7%84%EB%8B%A4.md">CRA + JS에서 CRA + TS로 변환하는 중, TypeScript로 React를 불러올 때 import 구문에서 에러가 났다.</a>
+- <a href="https://github.com/SangYoonLee1231/ERROR-Note/blob/main/React/%5B22.12.31%5D%20CRA%20%2B%20JS%EC%97%90%EC%84%9C%20CRA%20%2B%20TS%EB%A1%9C%20%EB%B3%80%ED%99%98%ED%95%98%EB%8A%94%20%EC%A4%91%2C%20index.tsx%20%ED%8C%8C%EC%9D%BC%EC%9D%98%20App%20%ED%8C%8C%EC%9D%BC%EC%9D%84%20import%20%ED%95%98%EB%8A%94%20%EC%BD%94%EB%93%9C%EC%97%90%EC%84%9C%20%EC%95%8C%20%EC%88%98%20%EC%97%86%EB%8A%94%20%EC%98%A4%EB%A5%98%EA%B0%80%20%EB%B0%9C%EC%83%9D%ED%96%88%EB%8B%A4.md">CRA + JS에서 CRA + TS로 변환하는 중, <code>index.tsx</code> 파일의 App 파일을 import 하는 코드에서 알 수 없는 오류가 발생했다.</a>
+<!-- - <a href=""></a> -->
 
 <br/><br/>
 
