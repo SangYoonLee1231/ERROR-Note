@@ -41,6 +41,7 @@
 ## Git
 
 - <a href="https://github.com/SangYoonLee1231/ERROR-Note/blob/main/Git/%5B22.11.15%5D%20(%EA%B9%83%EC%9C%BC%EB%A1%9C%20%EA%B4%80%EB%A6%AC%EB%90%98%EB%8A%94)%20%EB%A1%9C%EC%BB%AC%20%EC%A0%80%EC%9E%A5%EC%86%8C%EC%97%90%EC%84%9C%20%ED%8C%8C%EC%9D%BC%EB%AA%85%EC%9D%84%20%EC%88%98%EC%A0%95%ED%95%9C%20%ED%9B%84%20%EC%BB%A4%EB%B0%8B%2C%20%ED%91%B8%EC%89%AC%20%EC%8B%9C%20%EC%9B%90%EA%B2%A9%20%EC%A0%80%EC%9E%A5%EC%86%8C%EC%97%90%20%EC%9D%B4%20%EC%88%98%EC%A0%95%20%EC%82%AC%ED%95%AD%EC%9D%B4%20%EB%B0%98%EC%98%81%EB%90%98%EC%A7%80%20%EC%95%8A%EB%8A%94%EB%8B%A4.md">(깃으로 관리되는) 로컬 저장소에서 파일명을 수정한 후 커밋, 푸쉬 시 원격 저장소에 이 수정 사항이 반영되지 않는다.</a>
+- <a href="">커밋 시 로컬 저장소 상태와 원격 저장소 상태가 달라 충돌이 발생했다. (<code>Git merge is not possible because I have unmerged files</code>)</a>
 <!-- - <a href=""></a> -->
 
 <br/><br/>
