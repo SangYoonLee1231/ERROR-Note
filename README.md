@@ -50,6 +50,8 @@
 
 - <a href="https://github.com/SangYoonLee1231/ERROR-Note/blob/main/Git/%5B23.05.07%5D%20%EB%A1%9C%EC%BB%AC%20%ED%8F%B4%EB%8D%94%EC%99%80%20(%EB%B9%84%EC%96%B4%EC%9E%88%EB%8A%94)%20%EC%9B%90%EA%B2%A9%20%EC%A0%80%EC%9E%A5%EC%86%8C%EB%A5%BC%20%EC%B2%98%EC%9D%8C%EC%9C%BC%EB%A1%9C%20%EC%97%B0%EA%B2%B0%ED%95%98%EA%B3%A0%20%ED%91%B8%EC%89%AC%ED%96%88%EB%8A%94%EB%8D%B0%2C%20%ED%8A%95%EA%B2%BC%EB%8B%A4..md">로컬 폴더와 (비어있는) 원격 저장소를 처음으로 연결하고 푸쉬했는데, 튕겼다.</a>
 
+- <a href="">원격 저장소로 push하니 403 에러가 발생했다.</a>
+
 <!-- - <a href=""></a> -->
 
 <br/><br/>
