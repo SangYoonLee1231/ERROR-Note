@@ -39,7 +39,7 @@
 
 ### 2023년
 
-- <a href="">PWA 개발 환경 세팅 후, 파일 구조를 어느 정도 짠 후 브라우저에서 잘 동작하는 지 실행해보니 `'ERR_OSSL_EVP_UNSUPPORTED'` 오류가 발생했다.</a>
+- <a href="https://github.com/SangYoonLee1231/ERROR-Note/blob/main/React/%5B23.05.16%5D%20PWA%20%EA%B0%9C%EB%B0%9C%20%ED%99%98%EA%B2%BD%20%EC%84%B8%ED%8C%85%20%ED%9B%84%2C%20%ED%8C%8C%EC%9D%BC%20%EA%B5%AC%EC%A1%B0%EB%A5%BC%20%EC%96%B4%EB%8A%90%20%EC%A0%95%EB%8F%84%20%EC%A7%A0%20%ED%9B%84%20%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%97%90%EC%84%9C%20%EC%9E%98%20%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94%20%EC%A7%80%20%EC%8B%A4%ED%96%89%ED%95%B4%EB%B3%B4%EB%8B%88%20'ERR_OSSL_EVP_UNSUPPORTED'%20%EC%98%A4%EB%A5%98%EA%B0%80%20%EB%B0%9C%EC%83%9D%ED%96%88%EB%8B%A4.md">PWA 개발 환경 세팅 후, 파일 구조를 어느 정도 짠 후 브라우저에서 잘 동작하는 지 실행해보니 `'ERR_OSSL_EVP_UNSUPPORTED'` 오류가 발생했다.</a>
 
 <!-- - <a href=""></a> -->
 
