@@ -36,6 +36,11 @@
 - <a href="https://github.com/SangYoonLee1231/ERROR-Note/blob/main/React/%5B22.12.29%5D%20Cannot%20use%20JSX%20unless%20the%20'--jsx'%20flag%20is%20provided.ts(17004).md">CRA + JS에서 CRA + TS로 변환하는 중, <code>Cannot use JSX unless the '--jsx' flag is provided.ts(17004)</code> 에러가 발생했다.</a>
 - <a href="https://github.com/SangYoonLee1231/ERROR-Note/blob/main/React/%5B22.12.31%5DTypeScript%EB%A1%9C%20React%EB%A5%BC%20%EB%B6%88%EB%9F%AC%EC%98%AC%20%EB%95%8C%20import%20%EA%B5%AC%EB%AC%B8%EC%9D%B4%20JS%EC%99%80%20%EB%8B%AC%EB%9D%BC%EC%A7%84%EB%8B%A4.md">CRA + JS에서 CRA + TS로 변환하는 중, TypeScript로 React를 불러올 때 import 구문에서 에러가 났다.</a>
 - <a href="https://github.com/SangYoonLee1231/ERROR-Note/blob/main/React/%5B22.12.31%5D%20CRA%20%2B%20JS%EC%97%90%EC%84%9C%20CRA%20%2B%20TS%EB%A1%9C%20%EB%B3%80%ED%99%98%ED%95%98%EB%8A%94%20%EC%A4%91%2C%20index.tsx%20%ED%8C%8C%EC%9D%BC%EC%9D%98%20App%20%ED%8C%8C%EC%9D%BC%EC%9D%84%20import%20%ED%95%98%EB%8A%94%20%EC%BD%94%EB%93%9C%EC%97%90%EC%84%9C%20%EC%95%8C%20%EC%88%98%20%EC%97%86%EB%8A%94%20%EC%98%A4%EB%A5%98%EA%B0%80%20%EB%B0%9C%EC%83%9D%ED%96%88%EB%8B%A4.md">CRA + JS에서 CRA + TS로 변환하는 중, <code>index.tsx</code> 파일의 App 파일을 import 하는 코드에서 알 수 없는 오류가 발생했다.</a>
+
+### 2023년
+
+- <a href="">PWA 개발 환경 세팅 후, 파일 구조를 어느 정도 짠 후 브라우저에서 잘 동작하는 지 실행해보니 `'ERR_OSSL_EVP_UNSUPPORTED'` 오류가 발생했다.</a>
+
 <!-- - <a href=""></a> -->
 
 <br/><br/>
