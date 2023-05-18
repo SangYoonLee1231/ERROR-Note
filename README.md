@@ -59,7 +59,7 @@
 
 - <a href="https://github.com/SangYoonLee1231/ERROR-Note/blob/main/Git/%5B23.05.17%5D.%20%EC%9B%90%EA%B2%A9%20%EC%A0%80%EC%9E%A5%EC%86%8C%EB%A1%9C%20push%ED%95%98%EB%8B%88%20403%20%EC%97%90%EB%9F%AC%EA%B0%80%20%EB%B0%9C%EC%83%9D%ED%96%88%EB%8B%A4.md">Fork를 하지 않고 원격 저장소로 push 했더니 403 에러가 발생했다.</a>
 
-- <a href="">`error: pathspec did not match any file(s) known to git` 에러 (특정 디렉토리 뿐만 아니라 모든 디렉토리에서 해당 에러 발생)</a>
+- <a href="https://github.com/SangYoonLee1231/ERROR-Note/blob/main/Git/%5B23.05.18%5Derror%3A%20pathspec%20did%20not%20match%20any%20file(s)%20known%20to%20git.md">`error: pathspec did not match any file(s) known to git` 에러 (특정 디렉토리 뿐만 아니라 모든 디렉토리에서 해당 에러 발생)</a>
 
 <!-- - <a href=""></a> -->
 
