@@ -61,9 +61,9 @@
 
 - <a href="https://github.com/SangYoonLee1231/ERROR-Note/blob/main/Git/%5B23.05.18%5Derror%3A%20pathspec%20did%20not%20match%20any%20file(s)%20known%20to%20git.md">`error: pathspec did not match any file(s) known to git` 에러 (특정 디렉토리 뿐만 아니라 모든 디렉토리에서 해당 에러 발생)</a>
 
-- <a href=""></a>
+<!-- - <a href=""></a>
 
-- <a href=""></a>
+- <a href=""></a> -->
 
 <!-- - <a href=""></a> -->
 
