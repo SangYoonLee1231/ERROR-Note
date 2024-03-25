@@ -65,7 +65,7 @@
 
 ### 2024년
 
-- <a href="">git push permission denied 403 에러 - 로컬 깃에서 권한이 다른 계정으로 설정되었음</a>
+- <a href="https://github.com/SangYoonLee1231/ERROR-Note/blob/main/Git/%5B24.03.26%5Dgit%20push%20permission%20denied%20403%20%EC%97%90%EB%9F%AC%20-%20%EB%A1%9C%EC%BB%AC%20%EA%B9%83%EC%97%90%EC%84%9C%20%EA%B6%8C%ED%95%9C%EC%9D%B4%20%EB%8B%A4%EB%A5%B8%20%EA%B3%84%EC%A0%95%EC%9C%BC%EB%A1%9C%20%EC%84%A4%EC%A0%95%EB%90%98%EC%97%88%EC%9D%8C.md">git push permission denied 403 에러 - 로컬 깃에서 권한이 다른 계정으로 설정되었음</a>
 
 <!--- <a href=""></a> -->
 
