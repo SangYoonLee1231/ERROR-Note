@@ -16,7 +16,7 @@
 
 ## React (+ JS/TS)
 
-### 2022년 11~12월
+### 2022년
 
 - <a href="https://github.com/SangYoonLee1231/ERROR-Note/blob/main/React/%5B22.11.04%5D%20DOM%EC%97%90%20%EC%A7%81%EC%A0%91%20%EC%A0%91%EA%B7%BC%ED%95%98%EC%97%AC%20classList%20%EB%A9%94%EC%86%8C%EB%93%9C%EB%A5%BC%20%ED%86%B5%ED%95%B4%20%ED%81%B4%EB%9E%98%EC%8A%A4%EB%A5%BC%20%EC%B6%94%EA%B0%80%ED%95%98%EA%B3%A0%20%EC%A0%9C%EA%B1%B0%ED%96%88%EB%8D%94%EB%8B%88%20%EC%A0%95%EC%83%81%EC%A0%81%EC%9C%BC%EB%A1%9C%20%EB%8F%99%EC%9E%91%ED%95%98%EC%A7%80%20%EC%95%8A%EB%8A%94%EB%8B%A4.md">DOM에 직접 접근하여 classList 메소드를 통해 클래스를 추가하고 제거했더니 정상적으로 동작하지 않는다.</a>
 
@@ -37,8 +37,6 @@
 - <a href="https://github.com/SangYoonLee1231/ERROR-Note/blob/main/React/%5B22.12.31%5DTypeScript%EB%A1%9C%20React%EB%A5%BC%20%EB%B6%88%EB%9F%AC%EC%98%AC%20%EB%95%8C%20import%20%EA%B5%AC%EB%AC%B8%EC%9D%B4%20JS%EC%99%80%20%EB%8B%AC%EB%9D%BC%EC%A7%84%EB%8B%A4.md">CRA + JS에서 CRA + TS로 변환하는 중, TypeScript로 React를 불러올 때 import 구문에서 에러가 났다.</a>
 - <a href="https://github.com/SangYoonLee1231/ERROR-Note/blob/main/React/%5B22.12.31%5D%20CRA%20%2B%20JS%EC%97%90%EC%84%9C%20CRA%20%2B%20TS%EB%A1%9C%20%EB%B3%80%ED%99%98%ED%95%98%EB%8A%94%20%EC%A4%91%2C%20index.tsx%20%ED%8C%8C%EC%9D%BC%EC%9D%98%20App%20%ED%8C%8C%EC%9D%BC%EC%9D%84%20import%20%ED%95%98%EB%8A%94%20%EC%BD%94%EB%93%9C%EC%97%90%EC%84%9C%20%EC%95%8C%20%EC%88%98%20%EC%97%86%EB%8A%94%20%EC%98%A4%EB%A5%98%EA%B0%80%20%EB%B0%9C%EC%83%9D%ED%96%88%EB%8B%A4.md">CRA + JS에서 CRA + TS로 변환하는 중, <code>index.tsx</code> 파일의 App 파일을 import 하는 코드에서 알 수 없는 오류가 발생했다.</a>
 
-### 2023년
-
 - <a href="https://github.com/SangYoonLee1231/ERROR-Note/blob/main/React/%5B23.05.16%5D%20PWA%20%EA%B0%9C%EB%B0%9C%20%ED%99%98%EA%B2%BD%20%EC%84%B8%ED%8C%85%20%ED%9B%84%2C%20%ED%8C%8C%EC%9D%BC%20%EA%B5%AC%EC%A1%B0%EB%A5%BC%20%EC%96%B4%EB%8A%90%20%EC%A0%95%EB%8F%84%20%EC%A7%A0%20%ED%9B%84%20%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%97%90%EC%84%9C%20%EC%9E%98%20%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94%20%EC%A7%80%20%EC%8B%A4%ED%96%89%ED%95%B4%EB%B3%B4%EB%8B%88%20'ERR_OSSL_EVP_UNSUPPORTED'%20%EC%98%A4%EB%A5%98%EA%B0%80%20%EB%B0%9C%EC%83%9D%ED%96%88%EB%8B%A4.md">PWA 개발 환경 세팅 후, 파일 구조를 어느 정도 짠 후 브라우저에서 잘 동작하는 지 실행해보니 `'ERR_OSSL_EVP_UNSUPPORTED'` 오류가 발생했다.</a> (해결 ❌)
 
 - <a href="https://github.com/SangYoonLee1231/ERROR-Note/blob/main/React/%5B23.05.17%5D%20reportWebVital%20%EA%B4%80%EB%A0%A8%20%EB%AC%B8%EC%A0%9C.md">`reportWebVital` 관련 문제</a>
@@ -53,8 +51,6 @@
 
 - <a href="https://github.com/SangYoonLee1231/ERROR-Note/blob/main/Git/%5B22.11.15%5D%20(%EA%B9%83%EC%9C%BC%EB%A1%9C%20%EA%B4%80%EB%A6%AC%EB%90%98%EB%8A%94)%20%EB%A1%9C%EC%BB%AC%20%EC%A0%80%EC%9E%A5%EC%86%8C%EC%97%90%EC%84%9C%20%ED%8C%8C%EC%9D%BC%EB%AA%85%EC%9D%84%20%EC%88%98%EC%A0%95%ED%95%9C%20%ED%9B%84%20%EC%BB%A4%EB%B0%8B%2C%20%ED%91%B8%EC%89%AC%20%EC%8B%9C%20%EC%9B%90%EA%B2%A9%20%EC%A0%80%EC%9E%A5%EC%86%8C%EC%97%90%20%EC%9D%B4%20%EC%88%98%EC%A0%95%20%EC%82%AC%ED%95%AD%EC%9D%B4%20%EB%B0%98%EC%98%81%EB%90%98%EC%A7%80%20%EC%95%8A%EB%8A%94%EB%8B%A4.md">(깃으로 관리되는) 로컬 저장소에서 파일명을 수정한 후 커밋, 푸쉬 시 원격 저장소에 이 수정 사항이 반영되지 않는다.</a>
 
-### 2023년
-
 - <a href="https://github.com/SangYoonLee1231/ERROR-Note/blob/main/Git/%5B23.01.18%5D%20Git%20merge%20is%20not%20possible%20because%20I%20have%20unmerged%20files.md">커밋 시 로컬 저장소 상태와 원격 저장소 상태가 달라 충돌이 발생했다. (<code>Git merge is not possible because I have unmerged files</code>)</a>
 
 - <a href="https://github.com/SangYoonLee1231/ERROR-Note/blob/main/Git/%5B23.05.07%5D%20%EB%A1%9C%EC%BB%AC%20%ED%8F%B4%EB%8D%94%EC%99%80%20(%EB%B9%84%EC%96%B4%EC%9E%88%EB%8A%94)%20%EC%9B%90%EA%B2%A9%20%EC%A0%80%EC%9E%A5%EC%86%8C%EB%A5%BC%20%EC%B2%98%EC%9D%8C%EC%9C%BC%EB%A1%9C%20%EC%97%B0%EA%B2%B0%ED%95%98%EA%B3%A0%20%ED%91%B8%EC%89%AC%ED%96%88%EB%8A%94%EB%8D%B0%2C%20%ED%8A%95%EA%B2%BC%EB%8B%A4..md">로컬 폴더와 (비어있는) 원격 저장소를 처음으로 연결하고 푸쉬했는데, 튕겼다.</a>
@@ -62,8 +58,6 @@
 - <a href="https://github.com/SangYoonLee1231/ERROR-Note/blob/main/Git/%5B23.05.17%5D.%20%EC%9B%90%EA%B2%A9%20%EC%A0%80%EC%9E%A5%EC%86%8C%EB%A1%9C%20push%ED%95%98%EB%8B%88%20403%20%EC%97%90%EB%9F%AC%EA%B0%80%20%EB%B0%9C%EC%83%9D%ED%96%88%EB%8B%A4.md">Fork를 하지 않고 원격 저장소로 push 했더니 403 에러가 발생했다.</a>
 
 - <a href="https://github.com/SangYoonLee1231/ERROR-Note/blob/main/Git/%5B23.05.18%5Derror%3A%20pathspec%20did%20not%20match%20any%20file(s)%20known%20to%20git.md">`error: pathspec did not match any file(s) known to git` 에러 (특정 디렉토리 뿐만 아니라 모든 디렉토리에서 해당 에러 발생)</a>
-
-### 2024년
 
 - <a href="https://github.com/SangYoonLee1231/ERROR-Note/blob/main/Git/%5B24.03.26%5Dgit%20push%20permission%20denied%20403%20%EC%97%90%EB%9F%AC%20-%20%EB%A1%9C%EC%BB%AC%20%EA%B9%83%EC%97%90%EC%84%9C%20%EA%B6%8C%ED%95%9C%EC%9D%B4%20%EB%8B%A4%EB%A5%B8%20%EA%B3%84%EC%A0%95%EC%9C%BC%EB%A1%9C%20%EC%84%A4%EC%A0%95%EB%90%98%EC%97%88%EC%9D%8C.md">git push permission denied 403 에러 - 로컬 깃에서 권한이 다른 계정으로 설정되었음</a>
 
