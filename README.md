@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-## React 베이스 FrontEnd 개발
+## React 기반 FrontEnd 개발
 
 - <a href="https://github.com/SangYoonLee1231/ERROR-Note/blob/main/React/%5B22.11.04%5D%20DOM%EC%97%90%20%EC%A7%81%EC%A0%91%20%EC%A0%91%EA%B7%BC%ED%95%98%EC%97%AC%20classList%20%EB%A9%94%EC%86%8C%EB%93%9C%EB%A5%BC%20%ED%86%B5%ED%95%B4%20%ED%81%B4%EB%9E%98%EC%8A%A4%EB%A5%BC%20%EC%B6%94%EA%B0%80%ED%95%98%EA%B3%A0%20%EC%A0%9C%EA%B1%B0%ED%96%88%EB%8D%94%EB%8B%88%20%EC%A0%95%EC%83%81%EC%A0%81%EC%9C%BC%EB%A1%9C%20%EB%8F%99%EC%9E%91%ED%95%98%EC%A7%80%20%EC%95%8A%EB%8A%94%EB%8B%A4.md">DOM에 직접 접근하여 classList 메소드를 통해 클래스를 추가하고 제거했더니 정상적으로 동작하지 않는다.</a>
 
