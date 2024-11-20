@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-## React (+ JS/TS)
+## React 베이스 FrontEnd 개발
 
 - <a href="https://github.com/SangYoonLee1231/ERROR-Note/blob/main/React/%5B22.11.04%5D%20DOM%EC%97%90%20%EC%A7%81%EC%A0%91%20%EC%A0%91%EA%B7%BC%ED%95%98%EC%97%AC%20classList%20%EB%A9%94%EC%86%8C%EB%93%9C%EB%A5%BC%20%ED%86%B5%ED%95%B4%20%ED%81%B4%EB%9E%98%EC%8A%A4%EB%A5%BC%20%EC%B6%94%EA%B0%80%ED%95%98%EA%B3%A0%20%EC%A0%9C%EA%B1%B0%ED%96%88%EB%8D%94%EB%8B%88%20%EC%A0%95%EC%83%81%EC%A0%81%EC%9C%BC%EB%A1%9C%20%EB%8F%99%EC%9E%91%ED%95%98%EC%A7%80%20%EC%95%8A%EB%8A%94%EB%8B%A4.md">DOM에 직접 접근하여 classList 메소드를 통해 클래스를 추가하고 제거했더니 정상적으로 동작하지 않는다.</a>
 
@@ -59,7 +59,11 @@
 
 - <a href="https://github.com/SangYoonLee1231/ERROR-Note/blob/main/Git/%5B24.03.26%5Dgit%20push%20permission%20denied%20403%20%EC%97%90%EB%9F%AC%20-%20%EB%A1%9C%EC%BB%AC%20%EA%B9%83%EC%97%90%EC%84%9C%20%EA%B6%8C%ED%95%9C%EC%9D%B4%20%EB%8B%A4%EB%A5%B8%20%EA%B3%84%EC%A0%95%EC%9C%BC%EB%A1%9C%20%EC%84%A4%EC%A0%95%EB%90%98%EC%97%88%EC%9D%8C.md">git push permission denied 403 에러 - 로컬 깃에서 권한이 다른 계정으로 설정되었음</a>
 
-<!--- <a href=""></a> -->
+<br/><br/>
+
+## Etc.
+
+- <a href="https://github.com/SangYoonLee1231/ERROR-Note/blob/main/Etc/%5B24.11.20%5D%20npm%20%ED%8C%A8%ED%82%A4%EC%A7%80%20%EC%B6%A9%EB%8F%8C%20%ED%95%B4%EA%B2%B0.md">npm 패키지 충돌 문제 해결</a>
 
 <!-- - <a href=""></a> -->
 
